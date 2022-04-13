@@ -1,0 +1,15 @@
+{
+  "name": "redons-bot",
+  "version": "1.0.0",
+  "description": "Viber bot for Redon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Redon Berisha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "viber-bot": "^1.0.18"
+  }
+}
